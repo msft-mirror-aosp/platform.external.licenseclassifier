@@ -1,1 +1,1 @@
-file:platform/build/soong:/compliance/OWNERS
+include platform/system/core:main:/janitors/OWNERS
